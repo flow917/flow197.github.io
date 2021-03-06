@@ -1,0 +1,10 @@
+.button {
+    font-size: 30px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.button:hover {
+    box-shadow: 2px 2px 5px rgb(100, 100, 100);
+}
